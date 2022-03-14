@@ -11,4 +11,4 @@
 - Express
 - MongoDB
 
-Link to more info here:
+You can find the link to more info here:
