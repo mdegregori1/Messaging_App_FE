@@ -1,6 +1,7 @@
 ### Frontend
 
 - React 
+- Redux
 - Tailwind UI
 - Less
 - Auth0
