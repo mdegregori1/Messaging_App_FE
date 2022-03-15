@@ -12,4 +12,9 @@
 - Express
 - MongoDB
 
+### Bonus
+
+- Use electron to make it into a desktop app
+
+
 You can find the link to more info here:
